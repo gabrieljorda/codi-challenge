@@ -87,7 +87,7 @@ Também é bom ter o pnpm instalado, mas se você prefere usar o npm, funciona t
 
 Se você tem acesso ao repositório, pode clonar com o comando:
 
-`git clone https://github.com/seu-usuario/codi-challenge.git`
+`git clone https://github.com/gabrieljorda/codi-challenge.git`
 
 Depois entre na pasta do projeto:
 
